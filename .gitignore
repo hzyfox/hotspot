@@ -1,0 +1,13 @@
+.hg/
+.hgignore
+.hgtags
+.jcheck/
+ASSEMBLY_EXCEPTION
+LICENSE
+README
+THIRD_PARTY_README
+agent/
+build/
+make/
+nbproject/
+test/
